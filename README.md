@@ -1,10 +1,6 @@
 # CURD_Mongoose-_Express
 
-A REST API is an API that follows the REST (Representational State Transfer) architectural style for creating web services. It provides a set of operations (such as create, read, update, and delete) to interact with data in a MongoDB database over HTTP.
-
-Express is a popular framework for building web applications and APIs in Node.js. It provides a simple and flexible way to handle HTTP requests and responses.
-
-MongoDB is a NoSQL database that is commonly used with Node.js applications. It provides a way to store and retrieve data in a flexible and scalable way.
+This is a sample CRUD (Create, Read, Update, Delete) API built using Node.js, Express, and Mongoose. It allows you to create, read, update, and delete data from a MongoDB database.
 
 To create a REST API with Express and MongoDB, you would follow these basic steps:
 
