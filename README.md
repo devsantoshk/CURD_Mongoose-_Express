@@ -1,4 +1,4 @@
-# RestApiExpressMongodb
+# CURD_Mongoose-_Express
 
 A REST API is an API that follows the REST (Representational State Transfer) architectural style for creating web services. It provides a set of operations (such as create, read, update, and delete) to interact with data in a MongoDB database over HTTP.
 
